@@ -22,7 +22,7 @@ Le jeu de données contient 569 observations et 30 variables numériques représ
 
 2. **Entraînement du modèle :**
    - Algorithme : *Logistic Regression*
-   - Division en ensemble d’entraînement (environ 80%) et de test (environ 20%)
+   - Division en ensemble d’entraînement (~80%) et de test (~20%)
 
 3. **Évaluation :**
    - Accuracy : 0.98  
@@ -32,14 +32,11 @@ Le jeu de données contient 569 observations et 30 variables numériques représ
 
 4. **Visualisations :**
    - Matrice de confusion
-   - Distribution des classes
-
 ---
 
 ## Contenu
-- `data/` : contient le dataset utilisé  
-- `notebooks/` : code Python d’analyse et de modélisation  
-- `results/` : résultats du modèle  
+- `Projet_1.ipynb`  :Notebook principal avec l'implémentation complète
+- `requirements.txt`:Dépendances Python 
 
 
 ---
@@ -54,5 +51,5 @@ Ce projet montre ma compréhension du cycle complet d’un projet de Machine Lea
 ---
 
 ## Auteur
-**Fadhul Abdouroihamane**  
-Étudiant en Mathématiques Appliquées
+**Abdouroihamane Fadhul**  
+Candidat au Master en Sciences Mathématiques - AIMS South Africa 2026
