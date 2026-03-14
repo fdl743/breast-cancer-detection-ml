@@ -52,4 +52,4 @@ Ce projet montre ma compréhension du cycle complet d’un projet de Machine Lea
 
 ## Auteur
 **Abdouroihamane Fadhul**  
-Candidat au Master en Sciences Mathématiques - AIMS South Africa 2026
+Candidat au Master en Sciences Mathématiques - AIMS Senegal 2026/2027
